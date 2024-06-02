@@ -1,0 +1,22 @@
+.btn {
+    min-width: 40px;
+    margin-right: 0.5rem;
+    padding: 5px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.btn:last-child {
+    margin-right: 0;
+}
+
+.btn-selected {
+    background-color: black;
+    color: white;
+}
+
+.btn:hover {
+    cursor: pointer;
+    background-color: darkgray;
+}

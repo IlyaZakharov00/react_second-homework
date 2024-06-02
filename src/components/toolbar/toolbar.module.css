@@ -1,0 +1,7 @@
+.toolbar-list {
+    display: flex;
+    margin: 1rem auto;
+    justify-content: space-around;
+    width: 45%;
+    list-style: none;
+}

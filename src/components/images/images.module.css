@@ -1,0 +1,11 @@
+.imgs-container {
+    column-count: 3;
+    column-gap: 10px;
+    max-width: 1200px;
+    margin: auto;
+
+}
+
+.imgs-container-item {
+    width: 100%;
+}
